@@ -24,7 +24,7 @@ Create a yaml file, and override any of the  [default](./default.yaml) values if
 
 # Step 4: Customize Datadog dashboards.
 
-
+![1_7BuL0rx6fg2VVGi3osXddQ](https://user-images.githubusercontent.com/109483154/230390032-514d2ad1-b7a6-4a70-a50d-713630a81cbc.jpeg)
 
 # Conclusion
 In this project, I created a Datadog Monitoring for Nginx Kubernetes
